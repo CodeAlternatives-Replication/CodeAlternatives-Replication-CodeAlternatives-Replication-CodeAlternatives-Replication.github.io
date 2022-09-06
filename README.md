@@ -4,9 +4,7 @@
 ## Tool Screenshot
 We implment a web based tool to demonstrate the recommendation results by our approach.
 
-<object data="./tool demo.pdf" type="application/pdf" width="100%" height="100%">
-    <embed src="./tool demo.pdf" />
-</object>
+![tool screenshot](./tool screenshot.png)
 
 ## Evaluation
 We conduct a series of experiments to evaluate the accuracy, usefulness, and quality of REALAU by answering the following research questions.
