@@ -4,10 +4,8 @@
 ## Tool Screenshot
 We implment a web based tool to demonstrate the recommendation results by our approach.
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="./tool demo.pdf">
-<!--         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p> -->
-    </embed>
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="100%">
+    <embed src="./tool demo.pdf" />
 </object>
 
 
