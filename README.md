@@ -4,7 +4,7 @@
 ## Tool Screenshot
 We implment a web based tool to demonstrate the recommendation results by our approach.
 
-![tool screenshot]("./tool demo.png")
+![tool screenshot](./tooldemo.png)
 
 ## Evaluation
 We conduct a series of experiments to evaluate the accuracy, usefulness, and quality of REALAU by answering the following research questions.
