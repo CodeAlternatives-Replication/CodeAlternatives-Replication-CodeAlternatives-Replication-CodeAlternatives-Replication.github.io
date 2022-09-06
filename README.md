@@ -1,5 +1,16 @@
 # Replication Package for REALAU
 
+
+## Tool Screenshot
+We implment a web based tool to demonstrate the recommendation results by our approach.
+
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="./tool demo.pdf">
+<!--         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p> -->
+    </embed>
+</object>
+
+
 We conduct a series of experiments to evaluate the accuracy, usefulness, and quality of REALAU by answering the following research questions.
 - **RQ1 (Accuracy for API Usage Prediction):** How accurately REALAU can predict the masked API usages in code?
 - **RQ2 (Usefulness for Code Customization):** Are the code alternatives recommended by REALAU useful for code customization tasks?
@@ -201,7 +212,5 @@ private String readFromFile(Context context) {
 
 The questions are derived from the following SO posts and comments:
 - https://stackoverflow.com/questions/355089/difference-between-stringbuilder-and-stringbuffer
-
-
 
 
