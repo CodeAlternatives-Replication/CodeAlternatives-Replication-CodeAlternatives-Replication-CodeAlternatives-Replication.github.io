@@ -4,7 +4,7 @@
 ## Tool Screenshot
 We implment a web based tool to demonstrate the recommendation results by our approach.
 
-<object data="./tool demo.pdf" type="application/pdf" width="100%">
+<object data="./tool demo.pdf" type="application/pdf" width="100%" height="100%">
     <embed src="./tool demo.pdf" />
 </object>
 
